@@ -4,3 +4,6 @@ tomates
 ananas
 caramel
 anchois
+olives
+lardons
+mozzarella
