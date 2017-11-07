@@ -7,3 +7,4 @@ anchois
 olives
 lardons
 mozzarella
+aubergine
